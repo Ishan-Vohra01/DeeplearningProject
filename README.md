@@ -1,12 +1,13 @@
-#Pneumonia Detection using Deep Learning
+Pneumonia Detection using Deep Learning
+
 Introduction
 This project aims to develop a deep learning model for detecting pneumonia from chest X-ray images. By leveraging convolutional neural networks (CNNs), the model assists healthcare professionals in making accurate and timely diagnoses of pneumonia.
 
 Dataset
 The dataset used in this project is a publicly available set of chest X-ray images. It consists of labeled images classified into two categories:
-
 Normal
 Pneumonia
+
 Model Architecture
 The model is built using a convolutional neural network (CNN) with the following architecture:
 
